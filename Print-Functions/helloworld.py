@@ -2,6 +2,3 @@
 
 
 print("Hola Mundo")
-
-
-# Las cosas del Amor
