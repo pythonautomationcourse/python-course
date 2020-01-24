@@ -1,0 +1,18 @@
+You must be make a program that determines if a word is a Palindrome or not.
+
+Algorithm
+
+1. You must be save a string into a variable.
+2. This variable must be broken down into a list.
+3. It's necessary changes the order element's list
+4. After having the list it is necessary to change the order of the elements
+from the list of "left to right" to "right to left". Must be able to reverse
+the order, for example:
+    Element 0 must be the last in the list
+    Element 1 must be the penultimate element.
+
+5. Save this data in a variable.
+6. If variable 1 is equal to variable 2.
+      The word is a palindrome.
+Else.
+      The word is not a palindrome.
